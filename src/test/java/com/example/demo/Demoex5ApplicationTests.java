@@ -1,6 +1,6 @@
 package com.example.demo;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+//import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
@@ -9,7 +9,7 @@ class Demoex5ApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertEquals(true,true);
+		//assertEquals(true,true);
 	}
 
 }
