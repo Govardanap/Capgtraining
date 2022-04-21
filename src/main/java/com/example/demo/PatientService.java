@@ -22,6 +22,7 @@ Patient patient;
                 "\nAdmit Status " + patient.getAdmit_status() +
                 "\nAge " + patient.getAge();
         System.out.println(result);
+		//result one way is out
 	}
 
 }
