@@ -8,6 +8,7 @@ class Demoex5ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assertEquals(true,true);
 	}
 
 }
