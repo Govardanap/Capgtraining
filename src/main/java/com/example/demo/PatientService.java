@@ -14,7 +14,7 @@ Patient patient;
 		this.patient = patient;
 	}
 
-	public void getPatientDetails() {
+	public int getPatientDetails() {
 		String result = "Patient Id  " + patient.getPid() +
                 "\n Patient Name  " + patient.getPname() +
                 "\nDisease " + patient.getDisease() +
